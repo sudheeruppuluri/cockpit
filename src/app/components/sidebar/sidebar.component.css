@@ -1,0 +1,13 @@
+.sidebar-wrapper{
+    background-color:rgba(18, 31, 125, 1) !important;
+    color: #fff !important;
+}
+
+.logo{
+    background-color:rgba(18, 31, 125, 1) !important;
+    color: #fff !important;
+}
+
+.nav-item:hover{
+    color: #fff !important;
+}

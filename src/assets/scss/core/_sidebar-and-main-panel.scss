@@ -148,7 +148,7 @@
             & .dropdown-menu a:focus,
             &.active > [data-toggle="collapse"]{
                 background-color: rgba(200, 200, 200, 0.2);
-                color: $black-color;
+                color: #fff;
                 box-shadow: none;
             }
 
@@ -206,7 +206,7 @@
     .nav li .dropdown-menu a{
           margin: 10px 15px 0;
           border-radius: $border-radius-base;
-          color: $black-color;
+          color: #fff;
           padding-left: 10px;
           padding-right: 10px;
           text-transform: capitalize;
